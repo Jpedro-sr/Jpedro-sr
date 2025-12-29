@@ -9,4 +9,4 @@ Estudo Ciência da Computação pela Unicamp. Mais projetos no futuro!
 
 ---
 ### LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jpedro-sr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jpedro-sr/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jpedro-sr.github.io/portifolio/)
